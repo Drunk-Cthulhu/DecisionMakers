@@ -1,0 +1,8 @@
+C:\Users\avkuz\source\repos\Hooka_Jeeves\Hooka_Jeeves\bin\Debug\Hooka_Jeeves.exe.config
+C:\Users\avkuz\source\repos\Hooka_Jeeves\Hooka_Jeeves\bin\Debug\Hooka_Jeeves.exe
+C:\Users\avkuz\source\repos\Hooka_Jeeves\Hooka_Jeeves\bin\Debug\Hooka_Jeeves.pdb
+C:\Users\avkuz\source\repos\Hooka_Jeeves\Hooka_Jeeves\obj\Debug\Hooka_Jeeves.csproj.AssemblyReference.cache
+C:\Users\avkuz\source\repos\Hooka_Jeeves\Hooka_Jeeves\obj\Debug\Hooka_Jeeves.csproj.SuggestedBindingRedirects.cache
+C:\Users\avkuz\source\repos\Hooka_Jeeves\Hooka_Jeeves\obj\Debug\Hooka_Jeeves.csproj.CoreCompileInputs.cache
+C:\Users\avkuz\source\repos\Hooka_Jeeves\Hooka_Jeeves\obj\Debug\Hooka_Jeeves.exe
+C:\Users\avkuz\source\repos\Hooka_Jeeves\Hooka_Jeeves\obj\Debug\Hooka_Jeeves.pdb

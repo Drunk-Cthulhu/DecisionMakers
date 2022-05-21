@@ -1,0 +1,8 @@
+C:\Users\avkuz\source\repos\Coordinates\Coordinates\bin\Debug\Coordinates.exe.config
+C:\Users\avkuz\source\repos\Coordinates\Coordinates\bin\Debug\Coordinates.exe
+C:\Users\avkuz\source\repos\Coordinates\Coordinates\bin\Debug\Coordinates.pdb
+C:\Users\avkuz\source\repos\Coordinates\Coordinates\obj\Debug\Gradient.csproj.AssemblyReference.cache
+C:\Users\avkuz\source\repos\Coordinates\Coordinates\obj\Debug\Gradient.csproj.SuggestedBindingRedirects.cache
+C:\Users\avkuz\source\repos\Coordinates\Coordinates\obj\Debug\Gradient.csproj.CoreCompileInputs.cache
+C:\Users\avkuz\source\repos\Coordinates\Coordinates\obj\Debug\Coordinates.exe
+C:\Users\avkuz\source\repos\Coordinates\Coordinates\obj\Debug\Coordinates.pdb
